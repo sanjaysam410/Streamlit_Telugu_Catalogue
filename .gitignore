@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+category_report.txt
+inspect_*.py
+generate_links.py
